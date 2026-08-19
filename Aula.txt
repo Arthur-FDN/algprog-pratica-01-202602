@@ -1,0 +1,10 @@
+1-	Pegar o celular;
+2-	Desbloquear o celular;
+3-     Abrir o aplicativo do banco;
+4-     Pegar a conta de água;
+5-     Selecionar o opção pix dentro do aplicativo do banco no seu celular;
+6-     Escolha a opção ler qr code;
+7-     Leia o qr code da conta de água;
+8-     Confira o saldo, e o valor da conta a ser pago;
+9-     Caso haja saldo, confirme a transação;
+10-   Verifique o comprovante; 
